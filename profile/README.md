@@ -18,18 +18,18 @@
 ### 작품 소개 사진
 **사용자**
 <div>
-  <img src="https://user-images.githubusercontent.com/44110749/169954298-c6958edc-3074-4b10-ac4b-0e1965f5e168.png" width="300" height="550">
-  <img src="https://user-images.githubusercontent.com/44110749/170023561-2cae2b16-5148-4881-ac39-b1660bd17b06.png" width="300" height="550">
-  <img src="https://user-images.githubusercontent.com/44110749/169953219-8a8d399b-4600-4dfa-9f30-bdfdb206c748.png" width="300" height="550">
+  <img src="https://user-images.githubusercontent.com/44110749/169954298-c6958edc-3074-4b10-ac4b-0e1965f5e168.png" width="280" height="550">
+  <img src="https://user-images.githubusercontent.com/44110749/170023561-2cae2b16-5148-4881-ac39-b1660bd17b06.png" width="280" height="550">
+  <img src="https://user-images.githubusercontent.com/44110749/169953219-8a8d399b-4600-4dfa-9f30-bdfdb206c748.png" width="280" height="550">
 </div>
 <br><br>
 
 **관리자**
 <div>
-  <img src="https://user-images.githubusercontent.com/44110749/170022749-1a8140d6-d038-4775-8fa5-1913070c81a4.png" width="500" height="350">
-  <img src="https://user-images.githubusercontent.com/44110749/170023346-2d9f0e40-9da0-4887-a65d-bbf4da4ddd5a.png" width="500" height="350">
-  <img src="https://user-images.githubusercontent.com/44110749/169983969-a83ccad2-26f0-4356-9b1b-46911407f1d9.png" width="500" height="350">
-  <img src="https://user-images.githubusercontent.com/44110749/169984079-71f820bc-93c4-45a9-80fc-89261c91d159.png" width="500" height="350">
+  <img src="https://user-images.githubusercontent.com/44110749/170022749-1a8140d6-d038-4775-8fa5-1913070c81a4.png" width="420" height="330">
+  <img src="https://user-images.githubusercontent.com/44110749/170023346-2d9f0e40-9da0-4887-a65d-bbf4da4ddd5a.png" width="420" height="330">
+  <img src="https://user-images.githubusercontent.com/44110749/169983969-a83ccad2-26f0-4356-9b1b-46911407f1d9.png" width="420" height="330">
+  <img src="https://user-images.githubusercontent.com/44110749/169984079-71f820bc-93c4-45a9-80fc-89261c91d159.png" width="420" height="330">
 </div>
 
 ### 기대 효과
