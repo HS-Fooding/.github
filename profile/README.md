@@ -16,13 +16,21 @@
 
 
 ### 작품 소개 사진
-> 사용자
+**사용자**
 <div>
   <img src="https://user-images.githubusercontent.com/44110749/169954298-c6958edc-3074-4b10-ac4b-0e1965f5e168.png" width="200" height="350">
   <img src="https://user-images.githubusercontent.com/44110749/169954180-99b0c651-daec-4a2f-8ae6-c72bde1ebfe0.png" width="200" height="350">
   <img src="https://user-images.githubusercontent.com/44110749/169953219-8a8d399b-4600-4dfa-9f30-bdfdb206c748.png" width="200" height="350">
 </div>
-> 관리자
+
+
+**관리자**
+<div>
+  <img src="https://user-images.githubusercontent.com/44110749/169956852-d6e355f0-f4cd-4ae8-9065-f006fede2270.png" width="500" height="350">
+  <img src="https://user-images.githubusercontent.com/44110749/169956944-ac183e4e-5c12-4d85-a7f1-4e983e275c30.png" width="500" height="350">
+  <img src="https://user-images.githubusercontent.com/44110749/169957012-9b78f8a6-c07d-4247-950f-6d1a1305a22f.png" width="500" height="350">
+  <img src="https://user-images.githubusercontent.com/44110749/169957064-3ea99ee9-dfb7-4c26-88a9-03398026b028.png" width="500" height="350">
+</div>
 
 ### 기대 효과
 **편의성 및 사용성**
