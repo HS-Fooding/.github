@@ -28,8 +28,8 @@
 <div>
   <img src="https://user-images.githubusercontent.com/44110749/169956852-d6e355f0-f4cd-4ae8-9065-f006fede2270.png" width="500" height="350">
   <img src="https://user-images.githubusercontent.com/44110749/169956944-ac183e4e-5c12-4d85-a7f1-4e983e275c30.png" width="500" height="350">
-  <img src="https://user-images.githubusercontent.com/44110749/169957012-9b78f8a6-c07d-4247-950f-6d1a1305a22f.png" width="500" height="350">
-  <img src="https://user-images.githubusercontent.com/44110749/169957064-3ea99ee9-dfb7-4c26-88a9-03398026b028.png" width="500" height="350">
+  <img src="https://user-images.githubusercontent.com/44110749/169983969-a83ccad2-26f0-4356-9b1b-46911407f1d9.png" width="500" height="350">
+  <img src="https://user-images.githubusercontent.com/44110749/169984079-71f820bc-93c4-45a9-80fc-89261c91d159.png" width="500" height="350">
 </div>
 
 ### 기대 효과
