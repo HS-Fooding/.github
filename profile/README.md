@@ -11,12 +11,18 @@
 - 개발 도구 : Visual Code, IntelliJ IDEA, Android Studio, Postman
 - 주요 기술 : React, Spring boot, Spring Data JPA, Querydsl, MySQL
 - 시스템 구조 :
-> 사용자
-![1](https://user-images.githubusercontent.com/44110749/169953219-8a8d399b-4600-4dfa-9f30-bdfdb206c748.png)
-> 관리자
+
+<img src="https://user-images.githubusercontent.com/44110749/169955193-dcac2226-0982-4975-96ae-f180c3301c2c.png" width="500" height="350">
+
 
 ### 작품 소개 사진
-> TODO
+> 사용자
+<div>
+  <img src="https://user-images.githubusercontent.com/44110749/169954298-c6958edc-3074-4b10-ac4b-0e1965f5e168.png" width="200" height="350">
+  <img src="https://user-images.githubusercontent.com/44110749/169954180-99b0c651-daec-4a2f-8ae6-c72bde1ebfe0.png" width="200" height="350">
+  <img src="https://user-images.githubusercontent.com/44110749/169953219-8a8d399b-4600-4dfa-9f30-bdfdb206c748.png" width="200" height="350">
+</div>
+> 관리자
 
 ### 기대 효과
 **편의성 및 사용성**
