@@ -12,7 +12,7 @@
 - 주요 기술 : React, Spring boot, Spring Data JPA, Querydsl, MySQL
 - 시스템 구조 :
 
-<img src="https://user-images.githubusercontent.com/44110749/169955193-dcac2226-0982-4975-96ae-f180c3301c2c.png" width="500" height="350">
+<img src="https://user-images.githubusercontent.com/44110749/169955193-dcac2226-0982-4975-96ae-f180c3301c2c.png" width="600" height="450">
 
 
 ### 작품 소개 사진
