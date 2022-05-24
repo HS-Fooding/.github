@@ -10,7 +10,10 @@
 - 개발 언어 : JavaScript, HTML, CSS, Java, Kotlin
 - 개발 도구 : Visual Code, IntelliJ IDEA, Android Studio, Postman
 - 주요 기술 : React, Spring boot, Spring Data JPA, Querydsl, MySQL
-- 시스템 구조 : TODO
+- 시스템 구조 :
+> 사용자
+![1](https://user-images.githubusercontent.com/44110749/169953219-8a8d399b-4600-4dfa-9f30-bdfdb206c748.png)
+> 관리자
 
 ### 작품 소개 사진
 > TODO
