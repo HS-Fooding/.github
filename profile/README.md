@@ -26,10 +26,10 @@
 
 - **관리자**
 <div>
-  <img src="https://user-images.githubusercontent.com/44110749/170022749-1a8140d6-d038-4775-8fa5-1913070c81a4.png" width="420" height="330">
-  <img src="https://user-images.githubusercontent.com/44110749/170023346-2d9f0e40-9da0-4887-a65d-bbf4da4ddd5a.png" width="420" height="330">
-  <img src="https://user-images.githubusercontent.com/44110749/169983969-a83ccad2-26f0-4356-9b1b-46911407f1d9.png" width="420" height="330">
-  <img src="https://user-images.githubusercontent.com/44110749/169984079-71f820bc-93c4-45a9-80fc-89261c91d159.png" width="420" height="330">
+  <img src="https://user-images.githubusercontent.com/44110749/170022749-1a8140d6-d038-4775-8fa5-1913070c81a4.png" width="420" height="290">
+  <img src="https://user-images.githubusercontent.com/44110749/170023346-2d9f0e40-9da0-4887-a65d-bbf4da4ddd5a.png" width="420" height="290">
+  <img src="https://user-images.githubusercontent.com/44110749/169983969-a83ccad2-26f0-4356-9b1b-46911407f1d9.png" width="420" height="290">
+  <img src="https://user-images.githubusercontent.com/44110749/169984079-71f820bc-93c4-45a9-80fc-89261c91d159.png" width="420" height="290">
 </div>
 
 ### 기대 효과
