@@ -41,4 +41,7 @@
 > 관리자는 매장 정보 및 구조를 직접 커스텀하여 사용자에게 제공
 > 
 
+
+
+### 판넬
 ![image](https://user-images.githubusercontent.com/44110749/193276359-27b4b90d-e0f0-459b-bcd4-7f992433233f.png)
