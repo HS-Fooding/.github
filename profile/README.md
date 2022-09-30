@@ -44,4 +44,5 @@
 
 
 ### 판넬
-![image](https://user-images.githubusercontent.com/44110749/193276359-27b4b90d-e0f0-459b-bcd4-7f992433233f.png)
+![image](https://user-images.githubusercontent.com/44110749/193276682-466dbf06-6ba5-4e57-ab11-ed0fbdf8640e.png)
+
